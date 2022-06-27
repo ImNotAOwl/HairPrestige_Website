@@ -1,0 +1,44 @@
+navbar
+presentation
+carte des services
+feedback
+footer
+
+page -> mentions legales
+page -> contact
+page -> conseil
+
+-----------------------------------------------------
+
+Pas de coiffure type, salon de coiffure lambda
+
+-----------------------------------------------------
+
+Photo libre de droit :
+https://unsplash.com/s/photos/haircut
+
+-----------------------------------------------------
+
+Idee palette de couleurs / nuance de gris avec une une couleurs rose pale-melon / J'ai mixe les 2 palettes
+https://coolors.co/463f3a-8a817c-bcb8b1-f4f3ee-e0afa0
+https://coolors.co/ff6f59-254441-43aa8b-b2b09b-ef3054
+
+--color_text: #254441; 		-> pour le texte
+--color_green: #43AA8B;		-> pour les cartes et autres encart a ressortir du fond blanc
+--color_grey: #bcb8b1;		-> "							     "
+--background_color: #f4f3ee;	-> background color des pages
+--color_melon: #f8d3a3;		-> pour les interactions boutons hover, navbar hover
+
+------------------------------------------------------
+
+Typo pour les textes et titres
+
+--typo_titre: 'Poppins';
+--typo_text: 'Roboto';
+
+
+    
+    
+    
+    
+
