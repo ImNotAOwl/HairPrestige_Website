@@ -1,4 +1,6 @@
 # HairPrestige_Website
-Building a website in React form stratch without database access.
+We build a static website for a hairdressing salon from stratch.
 
-You can see the result just here : https://hair-prestige.vercel.app
+Techno used : React.js / HTML / CSS
+
+The result is just here : https://hair-prestige.vercel.app
